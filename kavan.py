@@ -1,2 +1,2 @@
-a=("welcome to jssp")
+a=("welcome to jssp mysuru")
 print(a)
